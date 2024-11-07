@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using RazorPageWeb.Models
+@model Product
+<div class="card my-4" style="width: 20rem">
+    <h2 class="card-header text-info">@Model.Name</h2>
+    <div class="card-body">
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text">@Model.Price</p>
+        <a href="#" class="btn btn-danger btn-sm">Đặt hàng</a>
+    </div>
+</div>
+
+@* <div class="card my-4" style="width: 20rem">
+    <h2 class="card-header text-info">Tên sản phẩm</h2>
+    <div class="card-body">
+        <p class="card-text">Mô tả</p>
+        <p class="card-text">Giá</p>
+        <a href="#" class="btn btn-danger btn-sm">Đặt hàng</a>
+    </div>
+</div> *@
+
+

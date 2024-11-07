@@ -1,0 +1,19 @@
+﻿@using RazorPageWeb.Models;
+@model List<Product>
+@{
+    ViewData["title"] = "Home Page";
+    ViewData["titleContent"] = "Trang san pham";
+}
+
+
+<ul class="list-group row">
+    @foreach(var product in Model)
+    {
+        <li class="list-group-item">
+@*             @product.Name (<strong>@product.Price</strong>) *@
+            @await Html.PartialAsync("_ProductItem",product)   
+        </li>
+    }
+ </ul>
+
+

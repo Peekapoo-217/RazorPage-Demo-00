@@ -1,0 +1,42 @@
+﻿@page 
+@model _ProductPageModel
+@{
+    var product = Model.product;
+    var products = Model.products;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (product != null)
+{
+    <h2>@product.Name</h2>
+    <p>Description: @product.Description</p>
+    <p>Price: @product.Price</p>
+    <a asp-page="ProductPage" asp-route-id ="">List of Product</a>
+}
+else
+{
+    <form method="get" asp-page="ProductPage" asp-page-handler="SearchProduct">
+        <input type="text" name="searchQuery" placeholder="Search Product" />
+        <button type="submit" value="Search" class="btn btn-danger">Tìm kiếm</button>
+    </form>
+
+    <hr />
+
+    <ul class="list-group">
+        @foreach(var item in products)
+        {
+            <li class="list-group-item">
+                <a asp-page="ProductPage" asp-route-id = "@item.Id">@item.Name</a>
+            </li>
+        }
+    </ul>
+    <br />
+    <a class="btn btn-danger" asp-page="ProductPage" asp-page-handler="RemoveAllProduct">
+        Delete All
+    </a>
+
+    <a class="btn btn-danger" asp-page="Create">
+        Thêm sản phẩm
+    </a>
+}
