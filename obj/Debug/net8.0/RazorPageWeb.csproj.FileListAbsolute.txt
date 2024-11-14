@@ -149,3 +149,4 @@ F:\ASP Core\Advanced_C#\RazorPageWeb\obj\Debug\net8.0\refint\RazorPageWeb.dll
 F:\ASP Core\Advanced_C#\RazorPageWeb\obj\Debug\net8.0\RazorPageWeb.pdb
 F:\ASP Core\Advanced_C#\RazorPageWeb\obj\Debug\net8.0\RazorPageWeb.genruntimeconfig.cache
 F:\ASP Core\Advanced_C#\RazorPageWeb\obj\Debug\net8.0\ref\RazorPageWeb.dll
+F:\ASP Core\Advanced_C#\RazorPageWeb\obj\Debug\net8.0\RazorPageWeb.sourcelink.json

@@ -10,6 +10,10 @@
 @if (product != null)
 {
     <h2>@product.Name</h2>
+    @foreach(var item in Model.ProductImagePaths)
+    {
+        <img src="@item" width="300" height="200" title="Sản phẩm của chúng tôi" />
+    }
     <p>Description: @product.Description</p>
     <p>Price: @product.Price</p>
     <a asp-page="ProductPage" asp-route-id ="">List of Product</a>

@@ -245,6 +245,18 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\wwwroot\\uploads\\Screenshot 2024-10-30 110819.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-30 110819.png"
+    },
+    {
+      "Id": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\wwwroot\\uploads\\Screenshot 2024-10-30 111029.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-30 111029.png"
+    },
+    {
+      "Id": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\wwwroot\\uploads\\Screenshot 2024-10-30 162956.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-30 162956.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RazorPageWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|f:\\asp core\\advanced_c#\\razorpageweb\\pages\\products\\productpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\products\\productpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|f:\\asp core\\advanced_c#\\razorpageweb\\pages\\user\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\user\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|f:\\asp core\\advanced_c#\\razorpageweb\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|f:\\asp core\\advanced_c#\\razorpageweb\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|f:\\asp core\\advanced_c#\\razorpageweb\\pages\\products\\productpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\products\\productpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\products\\productpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\products\\productpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\products\\productpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\shared\\components\\productboxcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\shared\\components\\productboxcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\validators\\custombirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:validators\\custombirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\validators\\strategies\\defaultbirthdatevalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:validators\\strategies\\defaultbirthdatevalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\validators\\strategies\\ibirthdatevalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:validators\\strategies\\ibirthdatevalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7840B8A-BFBA-401B-8524-CAD89D63A336}|RazorPageWeb.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
-              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Products\\Create.cshtml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBAAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\User\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User\\Contact.cshtml.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\User\\Contact.cshtml.cs",
+              "RelativeToolTip": "Pages\\User\\Contact.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:15:03.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
-              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Products\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvwwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T13:14:30.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAywBgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T02:16:10.357Z",
+              "WhenOpened": "2024-11-14T05:03:15.178Z",
               "EditorCaption": ""
             },
             {
@@ -87,23 +105,179 @@
               "RelativeDocumentMoniker": "Pages\\Products\\ProductPage.cshtml.cs",
               "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\ProductPage.cshtml.cs",
               "RelativeToolTip": "Pages\\Products\\ProductPage.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:12:43.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T03:42:40.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductPage.cshtml",
               "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\ProductPage.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\ProductPage.cshtml",
               "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\ProductPage.cshtml",
               "RelativeToolTip": "Pages\\Products\\ProductPage.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAAbAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:11:38.14Z",
+              "WhenOpened": "2024-11-14T03:42:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Shared\\Components\\ProductBoxComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Components\\ProductBoxComponent\\Default.cshtml",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Shared\\Components\\ProductBoxComponent\\Default.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Components\\ProductBoxComponent\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T16:54:55.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService\\ProductService.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA+wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:44:53.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:22:55.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\User\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User\\Contact.cshtml",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\User\\Contact.cshtml",
+              "RelativeToolTip": "Pages\\User\\Contact.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:05:02.995Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomBirthDate.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Validators\\CustomBirthDate.cs",
+              "RelativeDocumentMoniker": "Validators\\CustomBirthDate.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Validators\\CustomBirthDate.cs",
+              "RelativeToolTip": "Validators\\CustomBirthDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:53:55.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:49:48.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:49:44.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:49:42.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DefaultBirthDateValidationStrategy.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Validators\\Strategies\\DefaultBirthDateValidationStrategy.cs",
+              "RelativeDocumentMoniker": "Validators\\Strategies\\DefaultBirthDateValidationStrategy.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Validators\\Strategies\\DefaultBirthDateValidationStrategy.cs",
+              "RelativeToolTip": "Validators\\Strategies\\DefaultBirthDateValidationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:14:18.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBirthDateValidationStrategy.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Validators\\Strategies\\IBirthDateValidationStrategy.cs",
+              "RelativeDocumentMoniker": "Validators\\Strategies\\IBirthDateValidationStrategy.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Validators\\Strategies\\IBirthDateValidationStrategy.cs",
+              "RelativeToolTip": "Validators\\Strategies\\IBirthDateValidationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:12:06.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:04:01.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA2wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:15:03.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
+              "ToolTip": "F:\\ASP Core\\Advanced_C#\\RazorPageWeb\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:14:30.264Z"
             }
           ]
         }

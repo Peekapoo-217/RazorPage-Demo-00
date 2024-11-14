@@ -2,18 +2,31 @@
 @model RazorPageWeb.Pages.Products.CreateModel
 @{
 }
-<form method="post" asp-page-handler="Add">
+<form method="post" asp-page-handler="Add" enctype="multipart/form-data">
     <div class="form-group">
-        <label for="Name">Tên sản phẩm:</label>
-        <input type="text" id="Name" name="product.Name" class="form-control" required />
+        <label asp-for="Product.Id">ID:</label>
+        <input type="text" id="ID" asp-for="Product.Id" class="form-control" required />
+        <span asp-validation-for="Product.Id"></span>
     </div>
     <div class="form-group">
-        <label for="Description">Mô tả:</label>
-        <input type="text" id="Description" name="product.Description" class="form-control" required />
+        <label asp-for="Product.Name">Tên sản phẩm:</label>
+        <input type="text" id="Name" asp-for="Product.Name" class="form-control" required />
+        <span asp-validation-for="Product.Name"></span>
     </div>
     <div class="form-group">
-        <label for="Price">Giá:</label>
-        <input type="number" id="Price" name="product.Price" class="form-control" required />
+        <label asp-for="Product.Description">Mô tả:</label>
+        <input type="text" id="Description" asp-for="Product.Description" class="form-control" required />
+        <span asp-validation-for="Product.Description"></span>
     </div>
+    <div class="form-group">
+        <label asp-for="Product.Price">Giá:</label>
+        <input type="number" id="Price" asp-for="Product.Price" class="form-control" required />
+        <span asp-validation-for="Product.Price"></span>
+    </div>
+    <div class="form-group"> <label asp-for="listOfImageProduct">File upload:</label> 
+        <input multiple type="file" asp-for="listOfImageProduct" class="form-control" /> 
+        <span asp-validation-for="listOfImageProduct"></span> 
+    </div>
+    <hr />
     <button type="submit" class="btn btn-primary">Thêm Sản Phẩm</button>
 </form>

@@ -1,0 +1,43 @@
+﻿@page
+@model RazorPageWeb.Pages.User.ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1 class="display-4">Trang liên hệ </h1>
+<p class="lead">Điền các thông tin liên hệ </p>
+<hr />
+
+<form class="bg-light p-2 m-2" method="post" asp-page="Contact">
+    <div class="mb-3">
+        <label class="form-label" asp-for="contact.FirstName"></label>
+        <input class="form-control" asp-for="contact.FirstName" />
+        <span class="text-danger" asp-validation-for="contact.FirstName"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="contact.LastName"></label>
+        <input class="form-control" asp-for="contact.LastName" />
+        <span class="text-danger" asp-validation-for="contact.LastName"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="contact.DateofBirth"></label>
+        <input class="form-control" asp-for="contact.DateofBirth" />
+        <span class="text-danger" asp-validation-for="contact.DateofBirth"></span>
+    </div>
+    <button class="btn btn-danger" type="submit">Submit</button>
+
+</form>
+
+
+<p>@Model.thongbao</p>
+<div class="alert alert-danger">
+    <p>Thoong tin Contact</p>
+    <ul>
+        <li>FirstName: @Model.contact.FirstName</li>
+        <li>LastName: @Model.contact.LastName</li>
+        <li>DateOfBirth: @Model.contact.DateofBirth</li>
+    </ul>
+</div>
+
